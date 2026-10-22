@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="2" y="4" width="962" height="70" rx="35" fill="#DCEBF8"/>
+  <path d="M70 72 L60 94 L100 72 Z" fill="#DCEBF8"/>
+  <text x="38" y="51" font-size="34" font-weight="600" fill="#2C5C8F">Hey, this is Ella. Glad to see you here. Have a look around!</text>
+</svg>

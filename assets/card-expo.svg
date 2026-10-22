@@ -19,8 +19,9 @@
   <g class="drop d5"><use href="#pin" x="465" y="116" fill="#9B8AD9"/><circle cx="465" cy="88" r="5" fill="#fff"/></g>
   </g>
 
-  <text x="560" y="110" font-size="36" font-weight="600" fill="#1F3A5F">europe-expo-compass</text>
-  <text x="562" y="152" font-size="22" fill="#5B7290">110+ B2B trade fairs across Europe</text>
-  <text x="562" y="190" font-size="18" fill="#6B7F99">dates checked against official sites</text>
-  <text x="562" y="226" font-size="18" fill="#6B7F99">EN · 中文</text>
+  <text x="560" y="90" font-size="36" font-weight="600" fill="#1F3A5F">europe-expo-compass</text>
+  <text x="562" y="130" font-size="22" fill="#5B7290">plan your fairs &amp; track their status</text>
+  <rect x="560" y="150" width="94" height="36" rx="18" fill="#FBE3DA"/><text x="607.0" y="174" font-size="18" font-weight="600" fill="#993C1D" text-anchor="middle">reliable</text>
+  <rect x="664" y="150" width="141" height="36" rx="18" fill="#FBE3DA"/><text x="734.5" y="174" font-size="18" font-weight="600" fill="#993C1D" text-anchor="middle">update check</text>
+  <rect x="815" y="150" width="108" height="36" rx="18" fill="#FBE3DA"/><text x="869.0" y="174" font-size="18" font-weight="600" fill="#993C1D" text-anchor="middle">EN / 中文</text>
 </svg>

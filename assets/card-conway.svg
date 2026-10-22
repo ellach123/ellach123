@@ -31,8 +31,9 @@
       <rect x="19" y="1" width="16" height="16" rx="3"/><rect x="19" y="19" width="16" height="16" rx="3"/><rect x="19" y="37" width="16" height="16" rx="3"/></g>
   </g>
 
-  <text x="560" y="110" font-size="36" font-weight="600" fill="#1F3A5F">conway-game-of-life</text>
-  <text x="562" y="152" font-size="22" fill="#5B7290">a small complex-systems lab</text>
-  <text x="562" y="190" font-size="18" fill="#6B7F99">lattices · networks · notebooks</text>
-  <text x="562" y="226" font-size="18" fill="#4A90D9">live demo ↗</text>
+  <text x="560" y="85" font-size="36" font-weight="600" fill="#1F3A5F">conway-game-of-life</text>
+  <rect x="560" y="109" width="173" height="36" rx="18" fill="#DDF3EA"/><text x="646.5" y="133" font-size="18" font-weight="600" fill="#0F6E56" text-anchor="middle">complex systems</text>
+  <rect x="743" y="109" width="125" height="36" rx="18" fill="#DDF3EA"/><text x="805.5" y="133" font-size="18" font-weight="600" fill="#0F6E56" text-anchor="middle">emergence</text>
+  <rect x="878" y="109" width="166" height="36" rx="18" fill="#DDF3EA"/><text x="961.0" y="133" font-size="18" font-weight="600" fill="#0F6E56" text-anchor="middle">network science</text>
+  <rect x="560" y="155" width="176" height="36" rx="18" fill="#DDF3EA"/><text x="648.0" y="179" font-size="18" font-weight="600" fill="#0F6E56" text-anchor="middle">cellular automata</text>
 </svg>
