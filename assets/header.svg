@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <defs>
+    <path id="a0" d="M120 250 C 260 226, 420 274, 600 250"/>
+    <path id="a1" d="M120 266 C 260 242, 420 290, 600 266"/>
+    <path id="a2" d="M120 282 C 260 258, 420 306, 600 282"/>
+    <path id="a3" d="M120 298 C 260 274, 420 322, 600 298"/>
+    <path id="a4" d="M120 314 C 260 290, 420 338, 600 314"/>
+    <path id="b0" d="M600 250 C 780 226, 920 274, 1070 250"/>
+    <path id="b1" d="M600 266 C 780 242, 920 290, 1070 266"/>
+    <path id="b2" d="M600 282 C 780 258, 920 306, 1070 282"/>
+    <path id="b3" d="M600 298 C 780 274, 920 322, 1070 298"/>
+    <path id="b4" d="M600 314 C 780 290, 920 338, 1070 314"/>
+    <g id="note">
+      <ellipse cx="0" cy="0" rx="7" ry="5" transform="rotate(-20)"/>
+      <rect x="5" y="-26" width="2" height="26"/>
+    </g>
+    <g id="note8">
+      <ellipse cx="0" cy="0" rx="7" ry="5" transform="rotate(-20)"/>
+      <rect x="5" y="-26" width="2" height="26"/>
+      <path d="M7 -26 q 10 6 6 16 q 0 -8 -6 -10z"/>
+    </g>
+    <style>
+      .spin { animation: spin 16s linear infinite; }
+      @keyframes spin { from { transform: translateX(-120px); } to { transform: translateX(0); } }
+      .float { animation: float 7s ease-in-out infinite; }
+      .f2 { animation-delay: -2.3s; } .f3 { animation-delay: -4.6s; }
+      @keyframes float { 0% { transform: translateY(20px); opacity: 0; } 30%,70% { opacity: 1; } 100% { transform: translateY(-40px); opacity: 0; } }
+      .bar { transform-box: fill-box; transform-origin: bottom; animation: grow 4s ease-in-out infinite; }
+      .g2 { animation-delay: -1s; } .g3 { animation-delay: -2s; } .g4 { animation-delay: -3s; }
+      @keyframes grow { 0%,100% { transform: scaleY(.55); } 50% { transform: scaleY(1); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="380" rx="24" fill="#F5F8FC"/>
+
+  <text x="60" y="104" font-size="54" font-weight="600" fill="#1F3A5F">Hi, I'm Ella</text>
+  <text x="62" y="146" font-size="23" fill="#5B7290">data engineer · the netherlands</text>
+
+  <g class="float"><use href="#note8" x="930" y="170" fill="#9B8AD9"/></g>
+  <g class="float f2"><use href="#note" x="1010" y="140" fill="#2BB3A3"/></g>
+  <g class="float f3"><use href="#note8" x="1090" y="175" fill="#F28B6B"/></g>
+
+  <g stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".85">
+    <path d="M120 250 C 260 226, 420 274, 600 250 C 780 226, 920 274, 1070 250" stroke="#4A90D9"/>
+    <path d="M120 266 C 260 242, 420 290, 600 266 C 780 242, 920 290, 1070 266" stroke="#2BB3A3"/>
+    <path d="M120 282 C 260 258, 420 306, 600 282 C 780 258, 920 306, 1070 282" stroke="#7BC67E"/>
+    <path d="M120 298 C 260 274, 420 322, 600 298 C 780 274, 920 322, 1070 298" stroke="#F2B84B"/>
+    <path d="M120 314 C 260 290, 420 338, 600 314 C 780 290, 920 338, 1070 314" stroke="#F28B6B"/>
+  </g>
+
+  <g fill="#C9D6E6" stroke="#4A6F99" stroke-width="2">
+    <path d="M44 260 v44 a26 8 0 0 0 52 0 v-44"/>
+    <ellipse cx="70" cy="260" rx="26" ry="8"/>
+    <path d="M44 282 a26 8 0 0 0 52 0" fill="none"/>
+  </g>
+
+  <g fill="#A9B4C2">
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="0s"><mpath href="#a0"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="-2.5s"><mpath href="#a0"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="-1s"><mpath href="#a1"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="-3.5s"><mpath href="#a1"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="-2s"><mpath href="#a2"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="-4.5s"><mpath href="#a2"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="-0.5s"><mpath href="#a3"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="-3s"><mpath href="#a3"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="-1.5s"><mpath href="#a4"/></animateMotion></circle>
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" begin="-4s"><mpath href="#a4"/></animateMotion></circle>
+  </g>
+
+  <use href="#note8" fill="#4A90D9"><animateMotion dur="5s" repeatCount="indefinite" begin="0s"><mpath href="#b0"/></animateMotion></use>
+  <use href="#note" fill="#4A90D9"><animateMotion dur="5s" repeatCount="indefinite" begin="-2.5s"><mpath href="#b0"/></animateMotion></use>
+  <use href="#note" fill="#2BB3A3"><animateMotion dur="5s" repeatCount="indefinite" begin="-1s"><mpath href="#b1"/></animateMotion></use>
+  <use href="#note8" fill="#2BB3A3"><animateMotion dur="5s" repeatCount="indefinite" begin="-3.5s"><mpath href="#b1"/></animateMotion></use>
+  <use href="#note8" fill="#5FAF62"><animateMotion dur="5s" repeatCount="indefinite" begin="-2s"><mpath href="#b2"/></animateMotion></use>
+  <use href="#note" fill="#5FAF62"><animateMotion dur="5s" repeatCount="indefinite" begin="-4.5s"><mpath href="#b2"/></animateMotion></use>
+  <use href="#note" fill="#E0A030"><animateMotion dur="5s" repeatCount="indefinite" begin="-0.5s"><mpath href="#b3"/></animateMotion></use>
+  <use href="#note8" fill="#E0A030"><animateMotion dur="5s" repeatCount="indefinite" begin="-3s"><mpath href="#b3"/></animateMotion></use>
+  <use href="#note8" fill="#F28B6B"><animateMotion dur="5s" repeatCount="indefinite" begin="-1.5s"><mpath href="#b4"/></animateMotion></use>
+  <use href="#note" fill="#F28B6B"><animateMotion dur="5s" repeatCount="indefinite" begin="-4s"><mpath href="#b4"/></animateMotion></use>
+
+  <clipPath id="earth"><circle cx="600" cy="178" r="32"/></clipPath>
+  <circle cx="600" cy="178" r="32" fill="#4A90D9"/>
+  <g clip-path="url(#earth)">
+    <g transform="translate(560 178)">
+      <g class="spin" fill="#7BC67E">
+        <g id="land">
+          <path d="M8 -22 q12 -6 18 4 q-2 10 -8 14 q6 8 2 22 q-6 8 -9 0 q-2 -10 -8 -14 q-8 -12 5 -26z"/>
+          <path d="M46 -24 q10 -4 16 2 q-4 6 -2 10 q10 2 10 14 q-4 14 -10 20 q-6 -8 -6 -16 q-8 -4 -8 -12 q-4 -10 0 -18z"/>
+          <path d="M72 -26 q22 -6 36 4 q4 8 -6 12 q-6 -2 -10 4 q-8 2 -12 -4 q-10 -6 -8 -16z"/>
+          <path d="M94 14 q8 -4 14 2 q0 8 -8 8 q-8 0 -6 -10z"/>
+        </g>
+        <use href="#land" x="120"/>
+      </g>
+    </g>
+  </g>
+  <circle cx="600" cy="178" r="32" fill="none" stroke="#2C5C8F" stroke-width="2.5"/>
+  <path d="M582 162 a24 24 0 0 1 14 -10" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none" opacity=".6"/>
+
+  <g>
+    <rect class="bar" x="1092" y="278" width="12" height="40" rx="3" fill="#4A90D9"/>
+    <rect class="bar g2" x="1110" y="258" width="12" height="60" rx="3" fill="#2BB3A3"/>
+    <rect class="bar g3" x="1128" y="268" width="12" height="50" rx="3" fill="#F2B84B"/>
+    <rect class="bar g4" x="1146" y="248" width="12" height="70" rx="3" fill="#F28B6B"/>
+  </g>
+
+  <g font-size="19" fill="#6B7F99" text-anchor="middle">
+    <text x="70" y="358">raw data</text>
+    <text x="360" y="358">transform</text>
+    <text x="600" y="358">govern</text>
+    <text x="840" y="358">deliver</text>
+    <text x="1125" y="358">insight</text>
+  </g>
+</svg>

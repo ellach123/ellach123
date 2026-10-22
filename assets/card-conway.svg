@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <defs>
+    <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M18 0 H0 V18" fill="none" stroke="#DCE4EE" stroke-width="1"/>
+    </pattern>
+    <g id="glider">
+      <g opacity="0"><animate attributeName="opacity" values="1;0;0;0" dur="1.4s" calcMode="discrete" repeatCount="indefinite"/>
+        <rect x="19" y="1" width="16" height="16" rx="3"/><rect x="37" y="19" width="16" height="16" rx="3"/><rect x="1" y="37" width="16" height="16" rx="3"/><rect x="19" y="37" width="16" height="16" rx="3"/><rect x="37" y="37" width="16" height="16" rx="3"/></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1;0;0" dur="1.4s" calcMode="discrete" repeatCount="indefinite"/>
+        <rect x="1" y="19" width="16" height="16" rx="3"/><rect x="37" y="19" width="16" height="16" rx="3"/><rect x="19" y="37" width="16" height="16" rx="3"/><rect x="37" y="37" width="16" height="16" rx="3"/><rect x="19" y="55" width="16" height="16" rx="3"/></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;0;1;0" dur="1.4s" calcMode="discrete" repeatCount="indefinite"/>
+        <rect x="37" y="19" width="16" height="16" rx="3"/><rect x="1" y="37" width="16" height="16" rx="3"/><rect x="37" y="37" width="16" height="16" rx="3"/><rect x="19" y="55" width="16" height="16" rx="3"/><rect x="37" y="55" width="16" height="16" rx="3"/></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;0;0;1" dur="1.4s" calcMode="discrete" repeatCount="indefinite"/>
+        <rect x="19" y="19" width="16" height="16" rx="3"/><rect x="37" y="37" width="16" height="16" rx="3"/><rect x="55" y="37" width="16" height="16" rx="3"/><rect x="19" y="55" width="16" height="16" rx="3"/><rect x="37" y="55" width="16" height="16" rx="3"/></g>
+    </g>
+  </defs>
+
+  <rect width="1200" height="270" rx="24" fill="#F5F8FC"/>
+  <rect x="70" y="45" width="414" height="180" fill="url(#grid)"/>
+
+  <g transform="translate(70 45)" fill="#2BB3A3">
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;18 18;36 36;54 54;72 72;90 90" dur="8.4s" calcMode="discrete" repeatCount="indefinite"/><use href="#glider"/></g>
+  </g>
+  <g transform="translate(196 45)" fill="#F28B6B">
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;18 18;36 36;54 54;72 72;90 90" dur="8.4s" begin="-4.2s" calcMode="discrete" repeatCount="indefinite"/><use href="#glider"/></g>
+  </g>
+  <g transform="translate(394 99)" fill="#9B8AD9">
+    <g><animate attributeName="opacity" values="1;0" dur="0.7s" calcMode="discrete" repeatCount="indefinite"/>
+      <rect x="1" y="19" width="16" height="16" rx="3"/><rect x="19" y="19" width="16" height="16" rx="3"/><rect x="37" y="19" width="16" height="16" rx="3"/></g>
+    <g><animate attributeName="opacity" values="0;1" dur="0.7s" calcMode="discrete" repeatCount="indefinite"/>
+      <rect x="19" y="1" width="16" height="16" rx="3"/><rect x="19" y="19" width="16" height="16" rx="3"/><rect x="19" y="37" width="16" height="16" rx="3"/></g>
+  </g>
+
+  <text x="560" y="110" font-size="36" font-weight="600" fill="#1F3A5F">conway-game-of-life</text>
+  <text x="562" y="152" font-size="22" fill="#5B7290">a small complex-systems lab</text>
+  <text x="562" y="190" font-size="18" fill="#6B7F99">lattices · networks · notebooks</text>
+  <text x="562" y="226" font-size="18" fill="#4A90D9">live demo ↗</text>
+</svg>

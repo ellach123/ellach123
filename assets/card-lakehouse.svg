@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <rect width="1200" height="300" rx="24" fill="#F5F8FC"/>
+
+  <rect x="80" y="196" width="320" height="56" rx="14" fill="#F5D2B8"/>
+  <rect x="80" y="128" width="320" height="56" rx="14" fill="#D5DEE8"/>
+  <rect x="80" y="60" width="320" height="56" rx="14" fill="#F8E2A0"/>
+  <g font-size="20" font-weight="600">
+    <text x="104" y="231" fill="#8A4B22">bronze</text>
+    <text x="104" y="163" fill="#3E5670">silver</text>
+    <text x="104" y="95" fill="#7A5A08">gold</text>
+  </g>
+  <g>
+    <circle cx="250" r="6" fill="#4A90D9"><animate attributeName="cy" values="240;72" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="300" r="6" fill="#2BB3A3"><animate attributeName="cy" values="240;72" dur="3s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="350" r="6" fill="#F28B6B"><animate attributeName="cy" values="240;72" dur="3s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3s" begin="-2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="560" y="96" font-size="38" font-weight="600" fill="#1F3A5F">digital-divide-lakehouse</text>
+  <text x="562" y="140" font-size="24" fill="#5B7290">global ICT indicators → Dutch municipalities</text>
+  <rect x="560" y="166" width="214" height="40" rx="20" fill="#DDF3EA"/>
+  <text x="667" y="193" font-size="20" font-weight="600" fill="#0F6E56" text-anchor="middle">built for under €1</text>
+  <text x="562" y="246" font-size="17" fill="#6B7F99">Azure · Databricks · PySpark · dbt · Airflow · Terraform · Power BI</text>
+</svg>

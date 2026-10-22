@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" text-anchor="middle">
+  <rect x="36" y="10" width="94" height="40" rx="20" fill="#DCEBF8"/><text x="83" y="36" fill="#2C5C8F">Python</text>
+  <rect x="142" y="10" width="63" height="40" rx="20" fill="#DDF3EA"/><text x="173.5" y="36" fill="#0F6E56">SQL</text>
+  <rect x="217" y="10" width="104" height="40" rx="20" fill="#E6F4DC"/><text x="269" y="36" fill="#3B6D11">PySpark</text>
+  <rect x="333" y="10" width="63" height="40" rx="20" fill="#FBEED3"/><text x="364.5" y="36" fill="#7A5A08">dbt</text>
+  <rect x="408" y="10" width="104" height="40" rx="20" fill="#FBE3DA"/><text x="460" y="36" fill="#993C1D">Airflow</text>
+  <rect x="524" y="10" width="135" height="40" rx="20" fill="#ECE8FA"/><text x="591.5" y="36" fill="#534AB7">Databricks</text>
+  <rect x="671" y="10" width="84" height="40" rx="20" fill="#DCEBF8"/><text x="713" y="36" fill="#2C5C8F">Azure</text>
+  <rect x="767" y="10" width="125" height="40" rx="20" fill="#DDF3EA"/><text x="829.5" y="36" fill="#0F6E56">Terraform</text>
+  <rect x="904" y="10" width="114" height="40" rx="20" fill="#FBEED3"/><text x="961" y="36" fill="#7A5A08">Power BI</text>
+  <rect x="1030" y="10" width="135" height="40" rx="20" fill="#FBE3DA"/><text x="1097.5" y="36" fill="#993C1D">JavaScript</text>
+</svg>

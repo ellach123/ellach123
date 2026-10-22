@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <defs>
+    <path id="pin" d="M0 0 C-12 -14 -15 -21 -15 -28 A15 15 0 0 1 15 -28 C15 -21 12 -14 0 0Z"/>
+    <style>
+      .drop { animation: drop 4s ease-in-out infinite; }
+      .d2 { animation-delay: -0.8s; } .d3 { animation-delay: -1.6s; } .d4 { animation-delay: -2.4s; } .d5 { animation-delay: -3.2s; }
+      @keyframes drop { 0%,100% { transform: translateY(0); } 15% { transform: translateY(-12px); } 30% { transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="270" rx="24" fill="#F5F8FC"/>
+
+  <g transform="translate(-80 0)">
+  <path d="M222 70 C280 42 370 48 425 60 C490 76 520 110 512 158 C504 200 440 212 375 204 C300 196 255 210 225 182 C200 158 194 92 222 70Z" fill="#E3F2EC"/>
+  <g class="drop"><use href="#pin" x="265" y="128" fill="#4A90D9"/><circle cx="265" cy="100" r="5" fill="#fff"/></g>
+  <g class="drop d2"><use href="#pin" x="335" y="102" fill="#2BB3A3"/><circle cx="335" cy="74" r="5" fill="#fff"/></g>
+  <g class="drop d3"><use href="#pin" x="310" y="186" fill="#F2B84B"/><circle cx="310" cy="158" r="5" fill="#fff"/></g>
+  <g class="drop d4"><use href="#pin" x="410" y="160" fill="#F28B6B"/><circle cx="410" cy="132" r="5" fill="#fff"/></g>
+  <g class="drop d5"><use href="#pin" x="465" y="116" fill="#9B8AD9"/><circle cx="465" cy="88" r="5" fill="#fff"/></g>
+  </g>
+
+  <text x="560" y="110" font-size="36" font-weight="600" fill="#1F3A5F">europe-expo-compass</text>
+  <text x="562" y="152" font-size="22" fill="#5B7290">110+ B2B trade fairs across Europe</text>
+  <text x="562" y="190" font-size="18" fill="#6B7F99">dates checked against official sites</text>
+  <text x="562" y="226" font-size="18" fill="#6B7F99">EN · 中文</text>
+</svg>
