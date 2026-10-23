@@ -15,10 +15,10 @@
     <circle cx="350" r="6" fill="#F28B6B"><animate attributeName="cy" values="240;72" dur="3s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3s" begin="-2s" repeatCount="indefinite"/></circle>
   </g>
 
-  <text x="560" y="91" font-size="38" font-weight="600" fill="#1F3A5F">digital-divide-lakehouse</text>
-  <text x="562" y="131" font-size="22" fill="#5B7290">mapped from global level to Dutch municipalities</text>
-  <rect x="560" y="151" width="293" height="36" rx="18" fill="#DCEBF8"/><text x="706.5" y="175" font-size="18" font-weight="600" fill="#2C5C8F" text-anchor="middle">internet speed &amp; ICT open data</text>
-  <rect x="863" y="151" width="114" height="36" rx="18" fill="#DCEBF8"/><text x="920.0" y="175" font-size="18" font-weight="600" fill="#2C5C8F" text-anchor="middle">80M rows</text>
-  <rect x="987" y="151" width="177" height="36" rx="18" fill="#DCEBF8"/><text x="1075.5" y="175" font-size="18" font-weight="600" fill="#2C5C8F" text-anchor="middle">built for under €1</text>
-  <text x="562" y="231" font-size="21" fill="#5B7290">Azure · Databricks · PySpark · dbt · Airflow · Terraform · Power BI</text>
+  <text x="560" y="96" font-size="38" font-weight="600" fill="#1F3A5F">digital-divide-lakehouse</text>
+  <text x="562" y="136" font-size="22" fill="#5B7290">mapped from global level to Dutch municipalities</text>
+  <rect x="560" y="156" width="293" height="36" rx="18" fill="#DCEBF8"/><text x="706.5" y="180" font-size="18" font-weight="600" fill="#2C5C8F" text-anchor="middle">internet speed &amp; ICT open data</text>
+  <rect x="863" y="156" width="114" height="36" rx="18" fill="#DCEBF8"/><text x="920.0" y="180" font-size="18" font-weight="600" fill="#2C5C8F" text-anchor="middle">80M rows</text>
+  <rect x="987" y="156" width="177" height="36" rx="18" fill="#DCEBF8"/><text x="1075.5" y="180" font-size="18" font-weight="600" fill="#2C5C8F" text-anchor="middle">built for under €1</text>
+  <text x="562" y="227" font-size="21" fill="#5B7290">Azure · Databricks · PySpark · dbt · Airflow · Terraform · Power BI</text>
 </svg>
