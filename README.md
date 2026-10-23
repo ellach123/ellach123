@@ -38,20 +38,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ellach123/conway-game-of-life"><img src="assets/card-conway.svg" width="100%" alt="conway-game-of-life: complex systems, emergence, network science, cellular automata."></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ellach123/conway-game-of-life">↗ View on GitHub</a>&nbsp; · &nbsp;<a href="https://ellach123.github.io/conway-game-of-life/">▶ Play in browser</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ellach123/europe-expo-compass"><img src="assets/card-expo.svg" width="100%" alt="europe-expo-compass: reliable, update check, English and Chinese. Plan your fairs and track their status."></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ellach123/europe-expo-compass">↗ View on GitHub</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ellach123/weisy-daily-desk"><img src="assets/card-weisy.svg" width="100%" alt="weisy-daily-desk: today list, task management, habit tracker, today-to-task linking, auto progress log, local data."></a>
 </p>
 <p align="center">
@@ -63,5 +49,19 @@
 </p>
 <p align="center">
   <a href="https://github.com/ellach123/weibo-post-cleaner-extension">↗ View on GitHub</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ellach123/conway-game-of-life"><img src="assets/card-conway.svg" width="100%" alt="conway-game-of-life: complex systems, emergence, network science, cellular automata."></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ellach123/conway-game-of-life">↗ View on GitHub</a>&nbsp; · &nbsp;<a href="https://ellach123.github.io/conway-game-of-life/">▶ Play in browser</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ellach123/europe-expo-compass"><img src="assets/card-expo.svg" width="100%" alt="europe-expo-compass: reliable, update check, English and Chinese. Plan your fairs and track their status."></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ellach123/europe-expo-compass">↗ View on GitHub</a>
 </p>
 
