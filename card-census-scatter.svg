@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <rect width="1200" height="320" rx="24" fill="#F5F8FC"/>
+  <g transform="translate(0 10)">
+
+  <g stroke="#C9D5E3" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M100 52 V242 H410"/>
+  </g>
+  <g font-size="16" fill="#8FA3BA">
+    <text x="410" y="268" text-anchor="end">2011</text>
+    <text x="88" y="64" text-anchor="end">2021</text>
+  </g>
+  <g>
+    <circle cx="353" cy="98" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.02;0.06;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="249" cy="181" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.042;0.082;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="318" cy="136" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.064;0.104;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="195" cy="159" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.086;0.126;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="158" cy="196" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.108;0.148;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="366" cy="75" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.13;0.17;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="145" cy="188" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.152;0.192;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="185" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.174;0.214;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="284" cy="119" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.196;0.236;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="263" cy="145" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.218;0.258;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="165" cy="196" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.24;0.28;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="125" cy="200" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.262;0.302;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="226" cy="151" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.284;0.324;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="108" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.306;0.346;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="374" cy="74" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.328;0.368;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="216" cy="190" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.35;0.39;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="297" cy="124" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.372;0.412;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="331" cy="117" r="7" fill="#2BB3A3" fill-opacity="0.85" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.394;0.434;0.9;1" dur="7s" repeatCount="indefinite"/></circle>
+  </g>
+  <line x1="120" y1="222" x2="388" y2="86" stroke="#17695F" stroke-width="4" stroke-linecap="round" stroke-dasharray="301" stroke-dashoffset="301"><animate attributeName="stroke-dashoffset" values="301;301;0;0;301" keyTimes="0;0.45;0.65;0.9;1" dur="7s" repeatCount="indefinite"/></line>
+  </g>
+
+  <text x="560" y="78" font-size="36" font-weight="600" fill="#1F3A5F">uk-equality-and-economy</text>
+  <rect x="560" y="146" width="230" height="36" rx="18" fill="#DDF3EF"/><text x="675.0" y="170" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">women in management</text>
+  <rect x="800" y="146" width="185" height="36" rx="18" fill="#DDF3EF"/><text x="892.5" y="170" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">creative industries</text>
+  <rect x="995" y="146" width="177" height="36" rx="18" fill="#DDF3EF"/><text x="1083.5" y="170" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">census open data</text>
+  <rect x="560" y="192" width="228" height="36" rx="18" fill="#DDF3EF"/><text x="674.0" y="216" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">economic development</text>
+  <rect x="798" y="192" width="294" height="36" rx="18" fill="#DDF3EF"/><text x="945.0" y="216" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">bias in census ethnic categories</text>
+  <text x="562" y="266" font-size="21" fill="#5B7290">Tableau · Python · pandas · scikit-learn · Jupyter</text>
+  <text x="562" y="116" font-size="22" fill="#5B7290">Women in management ↔ thriving creative industries</text>
+</svg>
