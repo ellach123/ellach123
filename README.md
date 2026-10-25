@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ellach123/uk-equality-and-economy"><img src="assets/card-census.svg" width="100%" alt="uk-equality-and-economy: women in management and thriving creative industries. Gender equality, women in management, creative industries, economic development, census ethnic bias, census open data."></a>
+  <a href="https://github.com/ellach123/uk-equality-and-economy"><img src="assets/card-census.svg" width="100%" alt="uk-equality-and-economy: women in management and thriving creative industries. Women in management, creative industries, census open data, economic development, bias in census ethnic categories."></a>
 </p>
 <p align="center">
   <a href="https://github.com/ellach123/uk-equality-and-economy">↗ View on GitHub</a>
@@ -62,7 +62,7 @@
   <a href="https://github.com/ellach123/conway-game-of-life"><img src="assets/card-conway.svg" width="100%" alt="conway-game-of-life: complex systems, emergence, network science, cellular automata."></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ellach123/conway-game-of-life">↗ View on GitHub</a>&nbsp; · &nbsp;<a href="https://ellach123.github.io/conway-game-of-life/">▶ Play in browser</a>
+  <a href="https://github.com/ellach123/conway-game-of-life">↗ View on GitHub</a>&nbsp; · &nbsp;<a href="https://ellach123.github.io/conway-game-of-life/">▶︎ Play in browser</a>
 </p>
 
 <p align="center">
