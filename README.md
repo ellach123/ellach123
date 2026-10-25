@@ -38,6 +38,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ellach123/uk-equality-and-economy"><img src="assets/card-census.svg" width="100%" alt="uk-equality-and-economy: women in management and thriving creative industries. Gender equality, women in management, creative industries, economic development, census ethnic bias, census open data."></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ellach123/uk-equality-and-economy">↗ View on GitHub</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ellach123/weisy-daily-desk"><img src="assets/card-weisy.svg" width="100%" alt="weisy-daily-desk: today list, task management, habit tracker, today-to-task linking, auto progress log, local data."></a>
 </p>
 <p align="center">
@@ -45,7 +52,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ellach123/weibo-post-cleaner-extension"><img src="assets/card-weibo.svg" width="100%" alt="weibo-post-cleaner-extension: Chrome and Edge extension, Manifest V3, auto delete, bulk delete, start and stop anytime. Shared on Rednote: 22k+ views, 1.2k+ likes and saves."></a>
+  <a href="https://github.com/ellach123/weibo-post-cleaner-extension"><img src="assets/card-weibo.svg" width="100%" alt="weibo-post-cleaner-extension: Chrome and Edge extension, auto and bulk delete, start and stop anytime. Shared on Rednote: 22k+ views, 1.2k+ likes and saves."></a>
 </p>
 <p align="center">
   <a href="https://github.com/ellach123/weibo-post-cleaner-extension">↗ View on GitHub</a>

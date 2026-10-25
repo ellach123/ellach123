@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <rect width="1200" height="320" rx="24" fill="#F5F8FC"/>
+  <g transform="translate(0 15)">
+
+  <path d="M92 230 H420" stroke="#C9D5E3" stroke-width="3" stroke-linecap="round"/>
+  <g>
+    <rect x="112" width="20" rx="5" fill="#2BB3A3" y="230" height="0"><animate attributeName="height" values="0;0;44;44;0" keyTimes="0;0.05;0.17;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="y" values="230;230;186;186;230" keyTimes="0;0.05;0.17;0.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="136" width="20" rx="5" fill="#A9B8CA" y="230" height="0"><animate attributeName="height" values="0;0;81;81;0" keyTimes="0;0.08;0.2;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="y" values="230;230;149;149;230" keyTimes="0;0.08;0.2;0.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="188" width="20" rx="5" fill="#2BB3A3" y="230" height="0"><animate attributeName="height" values="0;0;67;67;0" keyTimes="0;0.13;0.25;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="y" values="230;230;163;163;230" keyTimes="0;0.13;0.25;0.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="212" width="20" rx="5" fill="#A9B8CA" y="230" height="0"><animate attributeName="height" values="0;0;89;89;0" keyTimes="0;0.16;0.28;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="y" values="230;230;141;141;230" keyTimes="0;0.16;0.28;0.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="264" width="20" rx="5" fill="#2BB3A3" y="230" height="0"><animate attributeName="height" values="0;0;92;92;0" keyTimes="0;0.21;0.33;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="y" values="230;230;138;138;230" keyTimes="0;0.21;0.33;0.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="288" width="20" rx="5" fill="#A9B8CA" y="230" height="0"><animate attributeName="height" values="0;0;98;98;0" keyTimes="0;0.24;0.36;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="y" values="230;230;132;132;230" keyTimes="0;0.24;0.36;0.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="340" width="20" rx="5" fill="#2BB3A3" y="230" height="0"><animate attributeName="height" values="0;0;118;118;0" keyTimes="0;0.29;0.41;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="y" values="230;230;112;112;230" keyTimes="0;0.29;0.41;0.9;1" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="364" width="20" rx="5" fill="#A9B8CA" y="230" height="0"><animate attributeName="height" values="0;0;104;104;0" keyTimes="0;0.32;0.44;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="y" values="230;230;126;126;230" keyTimes="0;0.32;0.44;0.9;1" dur="7s" repeatCount="indefinite"/></rect>
+  </g>
+  <path d="M134 182 L210 157 L286 127 L362 90" fill="none" stroke="#F2B84B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="246 266" stroke-dashoffset="256"><animate attributeName="stroke-dashoffset" values="256;256;0;0;256" keyTimes="0;0.5;0.7;0.9;1" dur="7s" repeatCount="indefinite"/></path>
+  <g fill="#F2B84B"><circle cx="134" cy="182" r="6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.52;0.56;0.9;1" dur="7s" repeatCount="indefinite"/></circle><circle cx="210" cy="157" r="6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.57;0.61;0.9;1" dur="7s" repeatCount="indefinite"/></circle><circle cx="286" cy="127" r="6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.62;0.66;0.9;1" dur="7s" repeatCount="indefinite"/></circle><circle cx="362" cy="90" r="6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.67;0.71;0.9;1" dur="7s" repeatCount="indefinite"/></circle></g>
+  <g font-size="15" fill="#5B7290">
+    <rect x="96" y="250" width="14" height="14" rx="3" fill="#2BB3A3"/><text x="116" y="262">women managers</text>
+    <rect x="240" y="250" width="14" height="14" rx="3" fill="#A9B8CA"/><text x="260" y="262">men</text>
+    <circle cx="312" cy="257" r="6" fill="#F2B84B"/><text x="324" y="262">creative share</text>
+  </g>
+  </g>
+
+  <text x="560" y="78" font-size="36" font-weight="600" fill="#1F3A5F">uk-equality-and-economy</text>
+  <rect x="560" y="146" width="164" height="36" rx="18" fill="#DDF3EF"/><text x="642.0" y="170" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">gender equality</text>
+  <rect x="734" y="146" width="230" height="36" rx="18" fill="#DDF3EF"/><text x="849.0" y="170" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">women in management</text>
+  <rect x="974" y="146" width="185" height="36" rx="18" fill="#DDF3EF"/><text x="1066.5" y="170" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">creative industries</text>
+  <rect x="560" y="192" width="228" height="36" rx="18" fill="#DDF3EF"/><text x="674.0" y="216" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">economic development</text>
+  <rect x="798" y="192" width="182" height="36" rx="18" fill="#DDF3EF"/><text x="889.0" y="216" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">census ethnic bias</text>
+  <rect x="990" y="192" width="177" height="36" rx="18" fill="#DDF3EF"/><text x="1078.5" y="216" font-size="18" font-weight="600" fill="#17695F" text-anchor="middle">census open data</text>
+  <text x="562" y="266" font-size="21" fill="#5B7290">Tableau · Python · pandas · scikit-learn · Jupyter</text>
+  <text x="562" y="116" font-size="22" fill="#5B7290">Women in management ↔ thriving creative industries</text>
+</svg>
